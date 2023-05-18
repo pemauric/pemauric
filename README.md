@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=50&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+PEDRO+MAURICIO;Sejá+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pemauric&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Campos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemauric&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align = "left">
+  <img width="49%" height="195px" alt="Pedro Mauricio github stats" src="https://github-readme-stats.vercel.app/api?username=pemauric&show_icons=true&theme=transparent&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemauric&theme=transparent&count_private=true"/>
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pemauric&theme=gotham)
@@ -21,6 +21,6 @@
 <br>
 <div>
   <h3>Veja alguns de meus projetos abaixo</h3>
-  <a href = "https://editor.p5js.org/pemauric/sketches/JelA87vRP" target="_blank">Jogo Pong anos 70 desenvolvido com Javascrpit com a biblioteca P5Js</a><br><br>
-  <a href = "https://github.com/pemauric?tab=repositories" target="_blank">Clique aqui e veja mais em meus Repositórios!</a>
+  <a href = "https://github.com/pemauric?tab=repositories" target="_blank">Clicando aqui!</a>
 </div>
+
