@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemauric&layout=compact&theme=transparent&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&count_private=true"/>
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pemauric&theme=gotham)
-
 <h3 align="left">Tecnologias:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
