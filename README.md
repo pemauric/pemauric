@@ -20,7 +20,7 @@
 </div>
 <br>
 <div>
-  <****h3>Veja alguns de meus projetos abaixo</h3>
+  <h3>Veja alguns de meus projetos abaixo</h3>
   <a href = "https://pemauric.github.io/pong-p5.js/" target="_blank">Jogo Pong anos 70 - Feito com Javascript usando a biblioteca P5Js</a><br>
    <a href = "https://github.com/pemauric?tab=repositories" target="_blank">Clique aqui e veja mais em meus Repositórios!</a>
 </div>
