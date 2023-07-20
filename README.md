@@ -16,10 +16,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Hanlebars" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/> &nbsp;
 </div>
 <br>
 <div>
-  <h3>Veja alguns de meus projetos abaixo</h3>
+  <****h3>Veja alguns de meus projetos abaixo</h3>
   <a href = "https://pemauric.github.io/pong-p5.js/" target="_blank">Jogo Pong anos 70 - Feito com Javascript usando a biblioteca P5Js</a><br>
    <a href = "https://github.com/pemauric?tab=repositories" target="_blank">Clique aqui e veja mais em meus Repositórios!</a>
 </div>
