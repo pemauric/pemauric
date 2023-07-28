@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=50&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+PEDRO+MAURICIO;Sejá+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=50&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+PEDRO+MAURICIO;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align = "left">
   <img width="49%" height="195px" alt="Pedro Mauricio github stats" src="https://github-readme-stats.vercel.app/api?username=pemauric&show_icons=true&theme=transparent&layout=compact&theme=transparent&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&count_private=true"/>
