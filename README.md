@@ -24,4 +24,6 @@
    <a href = "https://github.com/pemauric?tab=repositories" target="_blank">Clique aqui e veja mais em meus Repositórios!</a>
 </div>
 
-![Snake animation](https://github.com/pemauric/pemauric/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    ![Snake animation](https://github.com/pemauric/pemauric/blob/output/github-contribution-grid-snake.svg)
+<div/>
